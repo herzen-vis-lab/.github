@@ -45,7 +45,7 @@
 
 **[heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange)** — 
 прототип федеративного обмена объектами цифрового культурного наследия 
-между университетами, музеями и библиотеками
+между университетами, музеями и библиотеками  
 **[on-prem-llm-stack](https://github.com/ashmarev/on-prem-llm-stack)** *(Артём Шмарёв)* — 
 reference architecture для локальных LLM в корпоративной среде
 
