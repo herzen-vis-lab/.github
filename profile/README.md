@@ -48,7 +48,7 @@
 
 ## Репозитории
 
-**[heritage-data-exchange](https://github.com/herzen-vis-lab/heritage-data-exchange)** — 
+**[heritage-data-exchange](https://github.com/ashmarev/heritage-data-exchange)** *(Артём Шмарёв)* — 
 прототип федеративного обмена объектами данными между организациями  
 **[on-prem-llm-stack](https://github.com/ashmarev/on-prem-llm-stack)** *(Артём Шмарёв)* — 
 reference architecture для локальных LLM в корпоративной среде
